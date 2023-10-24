@@ -1,0 +1,1 @@
+export const spinner = require('../spinner.gif');
